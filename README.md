@@ -2,12 +2,12 @@
 ## First of the Scholarship Challenge Projects
 
 
-###Features
+### Features
 Well, the phone number is clickable and it'll show a ripple animation on click. Upon click, a dialer is launched with the given number.
 
 [First Screenshot](HelloAndroid1.png) [Second Screenshot](HelloAndroid2.png)
 
-###Salient Elements
+### Salient Elements
 - Strings are not hard coded
 - Styles were used to format all ImageViews and TextViews
 - A bit of photoshop helped to create the nice gradient effect. 
