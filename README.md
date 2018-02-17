@@ -5,7 +5,7 @@
 ### Features
 Well, the phone number is clickable and it'll show a ripple animation on click. Upon click, a dialer is launched with the given number.
 
-[First Screenshot](HelloAndroid1.png) [Second Screenshot](HelloAndroid2.png)
+![Alt text](HelloAndroid1.png?raw=true "First Screenshot") ![Alt text](HelloAndroid2.png?raw=true "Second Screenshot")
 
 ### Salient Elements
 - Strings are not hard coded
